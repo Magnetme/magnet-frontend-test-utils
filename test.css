@@ -1,0 +1,7 @@
+/**
+ * This contains some very minimal css to make tests work.
+ */
+body {
+	/*An unpositioned body messes up all the things.*/
+	position: relative;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "magnet-test-utils",
+  "version": "1.0.0",
+  "description": "Set of test utilities for Magnet.me front-end projects",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "es6-promise": "^2.3.0"
+  }
+}
