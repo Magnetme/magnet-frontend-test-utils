@@ -1,7 +1,8 @@
 module.exports = {
 	files : [
 		__dirname + '/bindPolyfill.js',
-		__dirname + '/node_modules/es6-promise/dist/es6-promise.js',
+		require.resolve('angular-mocks'),
+		require.resolve('es6-promise'),
 		__dirname + '/util.js',
 		__dirname + '/errorCollector.js',
 		__dirname + '/test.css'
