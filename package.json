@@ -9,5 +9,5 @@
   },
   "publishConfig": {
     "registry": "http://npm.internal.magnet.me:4873/"
-  },
+  }
 }
